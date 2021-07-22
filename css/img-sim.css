@@ -1,0 +1,290 @@
+.pngs {
+  background-size: cover; 
+  background-position: center center;
+  position: fixed;
+ /* width: 100%;
+  height: 100%;*/
+
+  width: 88% ;
+  height: 70vh;
+  
+}
+.wrapper-bot{
+  position: absolute;
+  width: 12%;
+  height: 100%;
+  right: 0;
+
+}
+.cores{
+	width: 20px;
+	height: 20px;
+	margin: 2px;
+	-webkit-box-shadow: 1px 1px 1px rgba(0, 0, 0,0.3);
+	 -moz-box-shadow: 1px 1px 1px rgba(0, 0, 0,0.3);
+	 box-shadow: 1px 1px 1px rgba(0, 0, 0,0.3);
+
+}
+.az-bali, .az-bali a{background-color:#739aab; color: #739aab }
+.az-coral, .az-coral a{background-color:#00509c; color: #00509c }
+.branco, .branco a{background-color:#ffffff; color: #ffffff }
+.grafite, .grafite a{background-color:#6B605C; color: #6B605C }
+.laranja, .laranja a{background-color:#f9634a; color: #f9634a }
+.marfim, .marfim a{background-color:#fcfae9; color: #fcfae9 }
+.platina, .platina a{background-color:#C7C7AF; color: #C7C7AF }
+.preto, .preto a{background-color:#000000; color: #000000 }
+.vermelho, .vermelho a{background-color:#a33333; color: #a33333 }
+
+.cinza, .cinza a{background-color:#dfe0e1; color: #dfe0e1 }
+.brilho, .brilho a{background-color:#F2F2F2; color: #F2F2F2 }
+
+.p01{background: url(../img/simulador/lite/padrao-1.jpg) no-repeat center top;}
+.p01 a{opacity: 0;}
+
+.p02{background: url(../img/simulador/lite/padrao-2.jpg) no-repeat center top;}
+.p02 a{opacity: 0;}
+
+.p03{background: url(../img/simulador/lite/padrao-3.jpg) no-repeat center top;}
+.p03 a{opacity: 0;}
+
+.cores a{opacity: 0;}
+/*---=============MASTER==============--*/
+
+/*---AMBIENTES--*/
+.m-ambiente-1{
+  background-image: url(../img/simulador/master/ambiente-1.jpg);
+  
+}
+
+
+/*---PAINEIS--*/
+.m-painel-1{
+  background-image: url(../img/simulador/master/painel-1.png);
+  
+}
+.m-painel-2{
+  background-image: url(../img/simulador/master/painel-2.png);
+  
+}
+.m-painel-3{
+  background-image: url(../img/simulador/master/painel-3.png);
+  
+}
+.m-painel-4{
+  background-image: url(../img/simulador/master/painel-4.png);
+  
+}
+.m-painel-5{
+  background-image: url(../img/simulador/master/painel-5.png);
+  
+}
+.m-painel-6{
+  background-image: url(../img/simulador/master/painel-6.png);
+  
+
+}.m-painel-7{
+  background-image: url(../img/simulador/master/painel-7.png);
+  
+}
+.m-painel-8{
+  background-image: url(../img/simulador/master/painel-8.png);
+  
+}
+.m-painel-9{
+  background-image: url(../img/simulador/master/painel-9.png);
+  
+}
+
+/*---PORTAS--*/
+.m-porta-1{
+  background-image: url(../img/simulador/master/porta-1.png);
+  
+}
+.m-porta-2{
+  background-image: url(../img/simulador/master/porta-2.png);
+  
+}
+.m-porta-3{
+  background-image: url(../img/simulador/master/porta-3.png);
+  
+}
+.m-porta-4{
+  background-image: url(../img/simulador/master/porta-4.png);
+  
+}
+.m-porta-5{
+  background-image: url(../img/simulador/master/porta-5.png);
+  
+}
+.m-porta-6{
+  background-image: url(../img/simulador/master/porta-6.png);
+  
+
+}.m-porta-7{
+  background-image: url(../img/simulador/master/porta-7.png);
+  
+}
+.m-porta-8{
+  background-image: url(../img/simulador/master/porta-8.png);
+  
+}
+.m-porta-9{
+  background-image: url(../img/simulador/master/porta-9.png);
+  
+}
+.m-porta-10{
+  background-image: url(../img/simulador/master/porta-10.png);
+  
+}
+
+/*---MICTORIO--*/
+.m-mictorio-1{
+  background-image: url(../img/simulador/master/mictorio-1.png);
+  
+}
+.m-mictorio-2{
+  background-image: url(../img/simulador/master/mictorio-2.png);
+  
+}
+.m-mictorio-3{
+  background-image: url(../img/simulador/master/mictorio-3.png);
+  
+}
+.m-mictorio-4{
+  background-image: url(../img/simulador/master/mictorio-4.png);
+  
+}
+.m-mictorio-5{
+  background-image: url(../img/simulador/master/mictorio-5.png);
+  
+}
+.m-mictorio-6{
+  background-image: url(../img/simulador/master/mictorio-6.png);
+  
+
+}.m-mictorio-7{
+  background-image: url(../img/simulador/master/mictorio-7.png);
+  
+}
+.m-mictorio-8{
+  background-image: url(../img/simulador/master/mictorio-8.png);
+  
+}
+.m-mictorio-9{
+  background-image: url(../img/simulador/master/mictorio-9.png);
+  
+}
+
+/*---PEÇAS--*/
+.m-peca-1{
+  background-image: url(../img/simulador/master/peca-1.png);
+  
+}
+.m-peca-2{
+  background-image: url(../img/simulador/master/peca-2.png);
+  
+}
+.m-peca-3{
+  background-image: url(../img/simulador/master/peca-3.png);
+  
+}
+
+
+
+
+
+/*---=============LITE==============--*/
+
+/*---AMBIENTES--*/
+.l-ambiente-1{
+  background-image: url(../img/simulador/lite/ambiente-1.jpg);
+  
+}
+
+
+/*---PAINEIS--*/
+.l-painel-1{
+  background-image: url(../img/simulador/lite/painel-1.png);
+  
+}
+.l-painel-2{
+  background-image: url(../img/simulador/lite/painel-2.png);
+  
+}
+.l-painel-3{
+  background-image: url(../img/simulador/lite/painel-3.png);
+  
+}
+.l-painel-4{
+  background-image: url(../img/simulador/lite/painel-4.png);
+  
+}
+.l-painel-5{
+  background-image: url(../img/simulador/lite/painel-5.png);
+  
+}
+
+
+/*---PORTAS--*/
+.l-porta-1{
+  background-image: url(../img/simulador/lite/porta-1.png);
+  
+}
+.l-porta-2{
+  background-image: url(../img/simulador/lite/porta-2.png);
+  
+}
+.l-porta-3{
+  background-image: url(../img/simulador/lite/porta-3.png);
+  
+}
+.l-porta-4{
+  background-image: url(../img/simulador/lite/porta-4.png);
+  
+}
+.l-porta-5{
+  background-image: url(../img/simulador/lite/porta-5.png);
+  
+}
+
+
+/*---MICTORIO--*/
+.l-mictorio-1{
+  background-image: url(../img/simulador/lite/mictorio-1.png);
+  
+}
+.l-mictorio-2{
+  background-image: url(../img/simulador/lite/mictorio-2.png);
+  
+}
+.l-mictorio-3{
+  background-image: url(../img/simulador/lite/mictorio-3.png);
+  
+}
+.l-mictorio-4{
+  background-image: url(../img/simulador/lite/mictorio-4.png);
+  
+}
+.l-mictorio-5{
+  background-image: url(../img/simulador/lite/mictorio-5.png);
+  
+}
+
+
+/*---PEÇAS--*/
+.l-peca-1{
+  background-image: url(../img/simulador/lite/peca-1.png);
+  
+}
+.l-peca-2{
+  background-image: url(../img/simulador/lite/peca-2.png);
+  
+}
+.l-peca-3{
+  background-image: url(../img/simulador/lite/peca-3.png);
+  
+}
+
+
+
+
