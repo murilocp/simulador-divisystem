@@ -24,34 +24,18 @@ $is_mobile = (preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackber
 </head>
 
 <body>
-  
-
-
-<div data-stellar-background-ratio="1.9" class="poligonos2"></div>
-
-<div data-stellar-background-ratio="1.4" class="poligonos"></div>
- 
-  
 
 
 <div class="sections">
 
 
 <section class="scrollme snap" data-section-name="simulador" id="simulador">
-  <div class="conteudo">
-    <div class="container animateme"
-                      data-when="enter"
-                      data-from="1"
-                      data-to="0"
-                      data-opacity="0"
-                      data-scale="-4"
-                      data-translatex="-8000">
+  
   <div id="main-container">
       
       <div class="simulador-wrap">
           <!-- <button type="button" onclick="captureCurrentDiv()">Current Div</button> --> 
-        <div class="row">
-         
+        <div class="row">        
           <div class="col l10 s12"> <!-- RESULTADO SIMULADOR -->
 
                 <div class="mainmaster1"><!-- PNGS AMBIENTES -->
@@ -106,7 +90,6 @@ $is_mobile = (preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackber
 
             
           </div>
-          
           <div class="col l2 s12"><!-- MENU CORES -->
             <div class="wrapper-bot">
 
@@ -172,146 +155,13 @@ $is_mobile = (preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackber
 
             </div>
           </div>
-
         </div>
 
       </div>      
       
   </div><!-- main container-->
 
-    </div>
-  </div>
 </section>
-
-<section class="scrollme snap" data-section-name="simulador" id="simulador-2">
-  <div class="conteudo">
-    <div class="container animateme"
-                      data-when="enter"
-                      data-from="1"
-                      data-to="0"
-                      data-opacity="0"
-                      data-scale="-4"
-                      data-translatex="-8000">
-
-    <div class="hide-on-med-and-down">
-
-      <div class="simulador-wrap">
-        <div class="row">
-
-         
-          <div class="col l10 s12"> <!-- RESULTADO SIMULADOR -->
-            <div class="wrapper-sim">
-              <div class="mainlite1"><!-- PNGS AMBIENTES -->
-                    <div class="pngs l-ambiente-1"></div>
-                                   
-                </div>
-
-
-                <div class="mainlite2"><!-- PNGS PAINEIS -->
-                    <div class="pngs l-painel-1"></div>
-                    <div class="pngs l-painel-2"></div>
-                    <div class="pngs l-painel-3"></div>
-                    <div class="pngs l-painel-4"></div>
-                    <div class="pngs l-painel-5"></div>
-                                  
-                </div> 
-
-                <div class="mainlite3"><!-- PNGS PORTAS -->
-                    <div class="pngs l-porta-1"></div>
-                    <div class="pngs l-porta-2"></div>
-                    <div class="pngs l-porta-3"></div>
-                    <div class="pngs l-porta-4"></div>
-                    <div class="pngs l-porta-5"></div>
-                                  
-                </div> 
-
-
-                <div class="mainlite4"><!-- PNGS MICTORIOS -->
-                    <div class="pngs l-mictorio-1"></div>
-                    <div class="pngs l-mictorio-2"></div>
-                    <div class="pngs l-mictorio-3"></div>
-                    <div class="pngs l-mictorio-4"></div>
-                    <div class="pngs l-mictorio-5"></div>
-                                 
-                </div>   
-
-                <div class="mainlite5"><!-- PNGS PEÇAS -->
-                    <div class="pngs l-peca-1"></div>
-                    <div class="pngs l-peca-2"></div>
-                    <div class="pngs l-peca-3"></div>             
-                </div>
-                           
-            </div>
-          </div>
-          
-          <div class="col l2 s12"><!-- MENU CORES -->
-            <div class="wrapper-bot">
-              <div class="col s12">
-                <span class="sim-txt">Configure o ambiente com as opções abaixo:</span><hr>
-              </div>
-              
-              <div class="col s12 paletas">
-              <span class="sim-txt">Painéis</span>
-              <ul id="menulite2"><!-- CORES PAINEIS -->
-                <li class="cores p01"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Amendoa Doce">[1]</a></li>
-                <li class="cores p02"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Castanho Médio">[2]</a></li>
-                <li class="cores p03"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Larnaca Cristallo">[3]</a></li> 
-                <li class="cores branco"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Branco Cristal">[4]</a></li>
-                <li class="cores cinza"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Cinza Platina">[5]</a></li>
-                
-              </ul>
-              </div>
-              
-              <div class="col s12 paletas">
-              <span class="sim-txt">Portas</span>
-              <ul id="menulite3"><!-- CORES PORTAS -->
-                <li class="cores p01"><a  class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Amendoa Doce">[1]</a></li>
-                <li class="cores p02"><a  class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Castanho Médio">[2]</a></li>
-                <li class="cores p03"><a  class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Larnaca Cristallo">[3]</a></li> 
-                <li class="cores branco"><a  class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Branco Cristal">[4]</a></li>
-                <li class="cores cinza"><a  class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Cinza Platina">[5]</a></li>
-                             
-              </ul>
-              </div>
-              
-              <div class="col s12 paletas">
-              <span class="sim-txt">Mictórios</span>
-              <ul id="menulite4"><!-- CORES MICTORIOS -->
-                <li class="cores p01"><a  class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Amendoa Doce">[1]</a></li>
-                <li class="cores p02"><a  class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Castanho Médio">[2]</a></li>
-                <li class="cores p03"><a  class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Larnaca Cristallo">[3]</a></li> 
-                <li class="cores branco"><a  class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Branco Cristal">[4]</a></li>
-                <li class="cores cinza"><a  class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Cinza Platina">[5]</a></li>
-                           
-              </ul>
-              </div>
-
-              <div class="col s12 paletas">
-              <span class="sim-txt">Colunas</span>
-              <ul id="menulite5"><!-- CORES PEÇAS -->
-                <li class="cores branco"><a  class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Branco">[1]</a></li>
-                <li class="cores grafite"><a  class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Anodizado Natural">[2]</a></li>
-                <li class="cores preto"><a  class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Preto">[3]</a></li>               
-              </ul>
-              </div>
-              
-
-
-
-
-              </div>
-            </div>
-          </div>
-
-      </div>
-
-        </div>
-
-      </div>
-
-
-</section>
-
 
 </div><!-- fim class="sections" -->
 
@@ -349,26 +199,7 @@ $is_mobile = (preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackber
 
 
 
-
-
-
-
-
-
-
   <!--  Scripts-->
-  
-
-
-
- 
-
-
-
-
-
-
-
   
  <!--CDN link for  TweenMax-->
 <?php if (!$is_mobile) { ?> <script src="js/TweenMax.min.js"></script> <?php } ?>  <!--desabilitar mobile-->

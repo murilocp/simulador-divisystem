@@ -26,179 +26,13 @@ $is_mobile = (preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackber
 <body>
   
 
-
-<div data-stellar-background-ratio="1.9" class="poligonos2"></div>
-
-<div data-stellar-background-ratio="1.4" class="poligonos"></div>
- 
-  
-
-
 <div class="sections">
 
 
 <section class="scrollme snap" data-section-name="simulador" id="simulador">
-  <div class="conteudo">
-    <div class="container animateme"
-                      data-when="enter"
-                      data-from="1"
-                      data-to="0"
-                      data-opacity="0"
-                      data-scale="-4"
-                      data-translatex="-8000">
-  <div id="main-container">
-      
+    
       <div class="simulador-wrap">
-          <!-- <button type="button" onclick="captureCurrentDiv()">Current Div</button> --> 
-        <div class="row">
-         
-          <div class="col l10 s12"> <!-- RESULTADO SIMULADOR -->
-
-                <div class="mainmaster1"><!-- PNGS AMBIENTES -->
-                    <div class="pngs m-ambiente-1"></div>
-                </div>
-
-
-                <div class="mainmaster2"><!-- PNGS PAINEIS -->
-                    <div class="pngs m-painel-1"></div>
-                    <div class="pngs m-painel-2"></div>
-                    <div class="pngs m-painel-3"></div>
-                    <div class="pngs m-painel-4"></div>
-                    <div class="pngs m-painel-5"></div>
-                    <div class="pngs m-painel-6"></div>
-                    <div class="pngs m-painel-7"></div>
-                    <div class="pngs m-painel-8"></div>
-                    <div class="pngs m-painel-9"></div>               
-                </div> 
-
-                <div class="mainmaster3"><!-- PNGS PORTAS -->
-                    <div class="pngs m-porta-1"></div>
-                    <div class="pngs m-porta-2"></div>
-                    <div class="pngs m-porta-3"></div>
-                    <div class="pngs m-porta-4"></div>
-                    <div class="pngs m-porta-5"></div>
-                    <div class="pngs m-porta-6"></div> 
-                    <div class="pngs m-porta-7"></div>
-                    <div class="pngs m-porta-8"></div>
-                    <div class="pngs m-porta-9"></div>
-                    <div class="pngs m-porta-10"></div>                
-                </div> 
-
-
-                <div class="mainmaster4"><!-- PNGS MICTORIOS -->
-                    <div class="pngs m-mictorio-1"></div>
-                    <div class="pngs m-mictorio-2"></div>
-                    <div class="pngs m-mictorio-3"></div>
-                    <div class="pngs m-mictorio-4"></div>
-                    <div class="pngs m-mictorio-5"></div>
-                    <div class="pngs m-mictorio-6"></div> 
-                    <div class="pngs m-mictorio-7"></div>
-                    <div class="pngs m-mictorio-8"></div>
-                    <div class="pngs m-mictorio-9"></div>             
-                </div>   
-
-                <div class="mainmaster5"><!-- PNGS PEÇAS -->
-                    <div class="pngs m-peca-1"></div>
-                    <div class="pngs m-peca-2"></div>
-                    <div class="pngs m-peca-3"></div>             
-                </div> 
-
-
-            
-          </div>
-          
-          <div class="col l2 s12"><!-- MENU CORES -->
-            <div class="wrapper-bot">
-
-              <div class="col s12 ">
-                <span class="sim-txt">Configure o ambiente com as opções abaixo:</span><hr>
-              </div>
-              
-              <div class="col s12 paletas">
-              <span class="sim-txt">Painéis</span>
-              <ul id="menumaster2"><!-- CORES PAINEIS -->
-                <li class="cores az-coral"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Azul Coral">[1]</a></li>
-                <li class="cores vermelho"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Vermelho">[2]</a></li>
-                <li class="cores preto"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Preto">[3]</a></li> 
-                <li class="cores az-bali"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Azul Bali">[4]</a></li>
-                <li class="cores laranja"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Laranja">[5]</a></li>
-                <li class="cores grafite"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Grafite">[6]</a></li>
-                <li class="cores marfim"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Marfim Claro">[7]</a></li>
-                <li class="cores cinza"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Platina">[8]</a></li>
-                <li class="cores branco"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Branco">[9]</a></li>
-              </ul>
-              </div>
-              
-              <div class="col s12 paletas">
-              <span class="sim-txt">Portas</span>
-              <ul id="menumaster3"><!-- CORES PORTAS -->
-                <li class="cores az-coral"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Azul Coral">[1]</a></li>
-                <li class="cores vermelho"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Vermelho">[2]</a></li>
-                <li class="cores preto"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Preto">[3]</a></li> 
-                <li class="cores az-bali"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Azul Bali">[4]</a></li>
-                <li class="cores laranja"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Laranja">[5]</a></li>
-                <li class="cores grafite"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Grafite">[6]</a></li>
-                <li class="cores marfim"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Marfim Claro">[7]</a></li>
-                <li class="cores cinza"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Platina">[8]</a></li>
-                <li class="cores branco"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Branco">[9]</a></li>
-                <li class="cores brilho"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Vidro Branco">[0]</a></li>              
-              </ul>
-              </div>
-              
-              <div class="col s12 paletas">
-              <span class="sim-txt">Mictórios</span>
-              <ul id="menumaster4"><!-- CORES MICTORIOS -->
-                <li class="cores az-coral"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Azul Coral">[1]</a></li>
-                <li class="cores vermelho"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Vermelho">[2]</a></li>
-                <li class="cores preto"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Preto">[3]</a></li> 
-                <li class="cores az-bali"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Azul Bali">[4]</a></li>
-                <li class="cores laranja"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Laranja">[5]</a></li>
-                <li class="cores grafite"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Grafite">[6]</a></li>
-                <li class="cores marfim"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Marfim Claro">[7]</a></li>
-                <li class="cores cinza"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Platina">[8]</a></li>
-                <li class="cores branco"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Branco">[9]</a></li>              
-              </ul>
-              </div>
-
-              <div class="col s12 paletas">
-              <span class="sim-txt">Colunas</span>
-              <ul id="menumaster5"><!-- CORES PEÇAS -->
-                <li class="cores branco"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Branco">[1]</a></li>
-                <li class="cores grafite"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Anodizado Natural">[2]</a></li>
-                <li class="cores preto"><a class="btn tooltipped" data-position="top" data-delay="10" data-tooltip="Preto">[3]</a></li>               
-              </ul>
-              </div>
-
-
-            </div>
-          </div>
-
-        </div>
-
-      </div>      
-      
-  </div><!-- main container-->
-
-    </div>
-  </div>
-</section>
-
-<section class="scrollme snap" data-section-name="simulador" id="simulador-2">
-  <div class="conteudo">
-    <div class="container animateme"
-                      data-when="enter"
-                      data-from="1"
-                      data-to="0"
-                      data-opacity="0"
-                      data-scale="-4"
-                      data-translatex="-8000">
-
-    <div class="hide-on-med-and-down">
-
-      <div class="simulador-wrap">
-        <div class="row">
-
-         
+        <div class="row">         
           <div class="col l10 s12"> <!-- RESULTADO SIMULADOR -->
             <div class="wrapper-sim">
               <div class="mainlite1"><!-- PNGS AMBIENTES -->
@@ -304,11 +138,6 @@ $is_mobile = (preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackber
           </div>
 
       </div>
-
-        </div>
-
-      </div>
-
 
 </section>
 
