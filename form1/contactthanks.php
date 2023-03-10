@@ -11,7 +11,7 @@
 	<div id="page-wrap">
 
 		<img src="images/title.gif" alt="A Nice & Simple Contact Form" />
-		<p>By <a href="http://css-tricks.com">CSS-Tricks</a></p>
+		<p>By <a href="https://css-tricks.com">CSS-Tricks</a></p>
 			
 			
 		<br /><br />
@@ -23,7 +23,7 @@
 	
 	</div>
 	
-	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
 	</script>
 	<script type="text/javascript">
 	_uacct = "UA-68528-29";

@@ -1,5 +1,5 @@
 /*!
- * Materialize v0.97.6 (http://materializecss.com)
+ * Materialize v0.97.6 (https://materializecss.com)
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
@@ -29,7 +29,7 @@ section,
   width: 100%;
   height: 100%;
   overflow: visible;
-  background: #333 url("http://files.mimoymima.com/images/loading.gif")
+  background: #333 url("https://files.mimoymima.com/images/loading.gif")
     no-repeat center center;
 }
 tr {
@@ -267,7 +267,7 @@ nav ul a:hover.telefone {
   width: 100%;
   z-index: 2;
 
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
   background: #50a0c8; /* Old browsers */
   background: -moz-linear-gradient(
     top,
@@ -291,7 +291,7 @@ nav ul a:hover.telefone {
 #lite {
   width: 100%;
 
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
   background: #f03381; /* Old browsers */
   background: -moz-linear-gradient(
     top,
@@ -316,7 +316,7 @@ nav ul a:hover.telefone {
 #plus {
   width: 100%;
 
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
   background: #a54698; /* Old browsers */
   background: -moz-linear-gradient(
     top,
@@ -340,7 +340,7 @@ nav ul a:hover.telefone {
 #slim {
   width: 100%;
 
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
   background: #00a88f; /* Old browsers */
   background: -moz-linear-gradient(
     top,
@@ -365,7 +365,7 @@ nav ul a:hover.telefone {
 #portas {
   width: 100%;
 
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
   background: #f0bc32; /* Old browsers */
   background: -moz-linear-gradient(
     top,
@@ -390,7 +390,7 @@ nav ul a:hover.telefone {
 #video360 {
   width: 100%;
 
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
   background: #333333; /* Old browsers */
   background: -moz-linear-gradient(
     top,
@@ -415,7 +415,7 @@ nav ul a:hover.telefone {
 #simulador {
   width: 100%;
 
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
   background: #333333; /* Old browsers */
   background: -moz-linear-gradient(
     top,
@@ -440,7 +440,7 @@ nav ul a:hover.telefone {
 #simulador-2 {
   width: 100%;
 
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
   background: #333333; /* Old browsers */
   background: -moz-linear-gradient(
     top,
@@ -465,7 +465,7 @@ nav ul a:hover.telefone {
 #clientes {
   width: 100%;
 
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#50a0c8+0,1e4678+100 */
   background: #349a9a; /* Old browsers */
   background: -moz-linear-gradient(
     top,
